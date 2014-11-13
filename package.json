@@ -1,0 +1,22 @@
+{
+  "name": "eb-custom-api",
+  "version": "1.0.0",
+  "description": "basic custom api server for eventbrite",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gdgistanbul/eb-custom-api.git"
+  },
+  "keywords": [
+    "eventbrite"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gdgistanbul/eb-custom-api/issues"
+  },
+  "homepage": "https://github.com/gdgistanbul/eb-custom-api"
+}
