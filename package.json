@@ -20,9 +20,11 @@
   },
   "homepage": "https://github.com/gdgistanbul/eb-custom-api",
   "dependencies": {
+    "body-parser": "^1.9.2",
     "config": "^1.7.0",
     "express": "^4.10.2",
     "morgan": "^1.5.0",
-    "request": "^2.48.0"
+    "request": "^2.48.0",
+    "underscore": "^1.7.0"
   }
 }
